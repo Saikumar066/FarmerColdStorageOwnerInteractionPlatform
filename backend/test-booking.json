@@ -1,0 +1,9 @@
+{
+  "farmer_id": 1,
+  "storage_id": 2,
+  "start_time": "2025-08-19T10:00:00.000Z",
+  "end_time": "2025-08-26T10:00:00.000Z",
+  "quantity": "500 kg",
+  "produce": "Potatoes",
+  "notes": "Fresh booking to test manager notifications"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "leaflet-setup",
+  "description": "Required dependencies for OpenStreetMap + Leaflet integration",
+  "dependencies": {
+    "leaflet": "^1.9.4"
+  },
+  "devDependencies": {
+    "@types/leaflet": "^1.9.8"
+  },
+  "installation": {
+    "command": "npm install leaflet @types/leaflet",
+    "note": "Run this command in your frontend directory to install Leaflet dependencies"
+  }
+}
